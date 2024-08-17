@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mukund Bharti</h1>
 <h3 align="center">A passionate coding student pursuing B.Tech in Electronics and communication from NSUT</h3>
 
-- 🌱 I’m currently learning **Data structures and algorithms, C language**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **React, python and MySQL**
 
 - 📫 Reach me at **mukund0028y@gmail.com**
 
-- ⚡ Fun fact **In my free time you will find me smashing weights in gym and I enjoy singing sometimes**
+- ⚡ Fun fact **:- In my free time you will find me smashing weights in gym and I enjoy singing sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
